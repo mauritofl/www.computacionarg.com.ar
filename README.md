@@ -1,5 +1,5 @@
 # Computacion Argentina
-# https://computacionarg.com.ar
+# https://www.computacionarg.com.ar
 
 gh api \
   -H "Accept: application/vnd.github+json" \
