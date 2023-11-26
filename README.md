@@ -1,4 +1,4 @@
-# GitHub CLI api
+# Computacion Argentina
 # https://computacionarg.com.ar
 
 gh api \
